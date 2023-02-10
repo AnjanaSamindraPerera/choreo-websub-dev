@@ -326,7 +326,7 @@ dependencies = [
 [[package]]
 org = "ballerinax"
 name = "trigger.asgardeo"
-version = "0.3.9"
+version = "0.3.8"
 dependencies = [
 	{org = "ballerina", name = "cloud"},
 	{org = "ballerina", name = "crypto"},
